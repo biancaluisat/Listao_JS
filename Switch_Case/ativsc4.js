@@ -18,6 +18,7 @@ switch (nota){
         console.log('Nota D.');
         break;
     case 0:
+    case 1:
     case 2:
         console.log('Nota E.');
         break;
