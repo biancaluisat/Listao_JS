@@ -1,4 +1,4 @@
-let  numr = 4
+let  numr = 4;
 
 switch(numr){
     case 1:
