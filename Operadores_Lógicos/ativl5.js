@@ -7,5 +7,5 @@ if ((numr % 2 === 0) && numr >10){
 }else if ((numr % 2 != 0) && numr >10){
     console.log('É número impar e grandão.')
 }else {
-    console.log('É número pequeno e impar');
+    console.log('É número pequeno e impar.');
 }
